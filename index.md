@@ -15,7 +15,5 @@ This is the website for the [ANIMUS lab](https://carleton.ca/animus) in the Depa
 ### Blog
 
 {% for post in collections.posts.pages %}
-#### {{post.title}}
-
-[{{ post.title }}]({{ post.permalink }})
+#### [{{ post.title }}]({{ post.permalink }})
 {% endfor %}
