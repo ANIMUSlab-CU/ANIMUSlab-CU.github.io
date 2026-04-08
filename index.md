@@ -3,7 +3,7 @@ title: ""
 layout: default.liquid
 ---
 
-![ANIMUS lab](/assets/logo.svg)
+<img src="/assets/logo.svg" alt="ANIMUS lab" id="logo">
 
 ## Hello world!
 
