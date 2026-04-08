@@ -42,3 +42,9 @@ a:hover {
   display: block;
   margin: auto;
 }
+
+#logo > img {
+  position: relative;
+  width: 100%;
+  margin-left: -6%;
+}
