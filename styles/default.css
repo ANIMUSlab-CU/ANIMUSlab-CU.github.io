@@ -21,6 +21,10 @@ main {
 h1, h2, h3 {
   font-family: "Vollkorn", "serif";
   text-shadow: 0 0 5px #ead3ff;
+  font-weight: 500;
+  transform: scale(0.8, 1) translate(-20%, 0);
+  display: inline-block;
+  font-size-adjust: 0.7;
 }
 
 a {
