@@ -1,6 +1,18 @@
 body {
   font-family: "Iosevka Eta", "monospace";
   color: #fff;
+  background-image: url("/assets/images/sky_sml.gif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #000;
+}
+
+main {
+  max-width: 900px;
+  min-width: 600px;
+  margin: 50px;
+  padding: 20px;
   background-color: #000;
 }
 
