@@ -8,19 +8,19 @@ h1, h2, h3, h4, h5 {
   font-family: "Vollkorn", "serif";
 }
 
-:link {
+a {
   color: #fa7c00;
-  text-shadow: 0 0 2px #f72c2cff;
-  text-decoration: none;
-}
-
-:visited {
-  color: #e40090;
-  text-shadow: 0 0 2px #f72c2cff;
-  text-decoration: none;
-}
-
-:hover {
   text-shadow: 0 0 5px #f72c2cff;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #e40090;
+  text-shadow: 0 0 5px #f72c2cff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 0 0 10px #f72c2cff;
   text-decoration: none;
 }
