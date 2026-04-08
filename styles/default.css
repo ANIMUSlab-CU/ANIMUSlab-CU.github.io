@@ -1,7 +1,7 @@
 body {
   font-family: "Iosevka Eta", "monospace";
   color: #fff;
-  background-image: linear-gradient(rgba(0, 0, 0, 0) 65%, black 80%), url("/assets/images/sky_sml.gif");
+  background-image: linear-gradient(rgba(0, 0, 0, 0) calc(100% - 280px), black calc(100% - 80px)), url("/assets/images/sky_sml.gif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
