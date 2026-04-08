@@ -4,7 +4,7 @@ layout: default.liquid
 ---
 
 <div id="logo">
-    <img src="/assets/logo.svg" alt="ANIMUS lab">
+    <img src="/assets/logo.png" alt="ANIMUS lab">
 </div>
 
 ## Hello world!
