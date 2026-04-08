@@ -6,6 +6,7 @@ template_extensions:
 include_drafts: false
 ignore:
   - "publish.sh"
+  - "README.md"
 destination: _site
 
 # Site options
