@@ -8,6 +8,11 @@ body {
   background-color: #000;
   display: flex;
   justify-content: center;
+  min-height: 100%;
+}
+
+header {
+  flex: 0 1 auto;
 }
 
 main {
@@ -16,6 +21,16 @@ main {
   margin: 80px;
   padding: 80px;
   background-color: #000;
+  flex: 1 1 auto;
+}
+
+.padding {
+  height: 100vh;
+  background: none;
+}
+
+footer {
+  flex: 0 1 40px;
 }
 
 h1, h2, h3 {
